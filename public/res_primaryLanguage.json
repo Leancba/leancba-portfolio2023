@@ -1,0 +1,336 @@
+{
+    "basic_info": {
+      "description_header": "Hola!",
+      "description": "👋 Soy Full Stack Developer con +1 año de experiencia trabajando con buenas practicas y algoritmos en todo el proceso del desarrollo del software. Como estudiante autodidacta, aprender no es un obstáculo en algún nuevo desafió. Mi objetivo es poder contribuir en el diseño de las soluciones de la empresa y poder crecer en ella",
+      "section_name": {
+        "about": "Sobre Mi",
+        "mobileprojects": "Proyectos Móviles",
+        "webprojects": "Projectos Web",
+        "skills": "Skills",
+        "experience": "Experiencia laboral",
+        "education": "Educacion"
+      }
+    },
+    "projects": [
+      {
+        "title": "Pokemon",
+        "startDate": "2022",
+        "description": "Mi primera aplicacion utilizando la libreria de React Native. Utilizando los datos proveniente de la API de pokemon",
+        "main": [
+          "images/portfolio/pokemon/p2.png"
+        ],
+        "images": [
+          "images/portfolio/pokemon/p1.png",
+          "images/portfolio/pokemon/p2.png",
+          "images/portfolio/pokemon/p3.png",
+          "images/portfolio/pokemon/p4.png"
+        ],
+        "url": "https://github.com/Leancba/Pokedex",
+        "technologies": [
+          {
+            "class": "devicon-android-plain",
+            "name": "Android"
+          },
+          {
+            "class": "devicon-apple-original",
+            "name": "IOS"
+          }
+        ]
+      },
+      {
+        "title": "Recipe",
+        "startDate": "2022",
+        "description": "Aplicacion en la cual se podran consultar los ingredientes, procedimientos y valores nutricionales de cada receta",
+        "main": [
+          "images/portfolio/recipes/p3.png"
+        ],
+        "images": [
+          "images/portfolio/recipes/p1.png",
+          "images/portfolio/recipes/p2.png",
+          "images/portfolio/recipes/p3.png",
+          "images/portfolio/recipes/p4.png",
+          "images/portfolio/recipes/p5.png"
+        ],
+        "url": "https://github.com/Leancba/RecipeFood-App",
+        "technologies": [
+          {
+            "class": "devicon-android-plain",
+            "name": "Android"
+          },
+          {
+            "class": "devicon-apple-original",
+            "name": "IOS"
+          }
+        ]
+      },
+      {
+        "title": "Cripto",
+        "startDate": "2022",
+        "description": "Aplicacion en la cual se podra consultar en tiempo real los valores de las principales criptomonedas del mercado, como asi buscar un tipo en particular",
+        "main": [
+          "images/portfolio/cripto/p3.png"
+        ],
+        "images": [
+          "images/portfolio/cripto/p1.png",
+          "images/portfolio/cripto/p3.png",
+          "images/portfolio/cripto/p2.png"
+        ],
+        "url": "https://github.com/Leancba/Criptomarket",
+        "technologies": [
+          {
+            "class": "devicon-android-plain",
+            "name": "Android"
+          },
+          {
+            "class": "devicon-apple-original",
+            "name": "IOS"
+          }
+        ]
+      },
+      {
+        "title": "Movie",
+        "startDate": "2022",
+        "description": "Aplicacion para conocer las peliculas tendencias, y podremos obtener tambien la puntuacion de cada una de ellas, y obtendremos informacion acerca de sus principales actores",
+        "main": [
+          "images/portfolio/movie/p2.png"
+        ],
+        "images": [
+          "images/portfolio/movie/p1.png",
+          "images/portfolio/movie/p2.png",
+          "images/portfolio/movie/p3.png"
+        ],
+        "url": "https://github.com/Leancba/Movie-App",
+        "technologies": [
+          {
+            "class": "devicon-android-plain",
+            "name": "Android"
+          },
+          {
+            "class": "devicon-apple-original",
+            "name": "IOS"
+          }
+        ]
+      },
+      {
+        "title": "Clima",
+        "startDate": "2022",
+        "description": "Aplicacion para conocer el clima del lugar en donde nos encontramos ya que obtiene la informacion por medio de geolocalizacion.",
+        "main": [
+          "images/portfolio/clima/p2.png"
+        ],
+        "images": [
+          "images/portfolio/clima/p1.png",
+          "images/portfolio/clima/p2.png",
+          "images/portfolio/clima/p3.png"
+        ],
+        "url": "https://github.com/Leancba/Clima-App",
+        "technologies": [
+          {
+            "class": "devicon-android-plain",
+            "name": "Android"
+          },
+          {
+            "class": "devicon-apple-original",
+            "name": "IOS"
+          }
+        ]
+      },
+      {
+        "title": "Tareas",
+        "startDate": "2022",
+        "description": "Aplicacion para agregar tareas de la vida cotidiana, tacharlas si ya se realizaron y borrarlas.",
+        "main": [
+          "images/portfolio/tareas/p2.png"
+        ],
+        "images": [
+          "images/portfolio/tareas/p1.png",
+          "images/portfolio/tareas/p2.png",
+          "images/portfolio/tareas/p3.png",
+          "images/portfolio/tareas/p4.png",
+          "images/portfolio/tareas/p5.png"
+        ],
+        "url": "https://github.com/Leancba/ToDo-App",
+        "technologies": [
+          {
+            "class": "devicon-android-plain",
+            "name": "Android"
+          },
+          {
+            "class": "devicon-apple-original",
+            "name": "IOS"
+          }
+        ]
+      },
+      {
+        "title": "Tools",
+        "startDate": "2022",
+        "description": "Aplicacion en la que podremos utilizar una calculadora y un chronometron con laps",
+        "main": [
+          "images/portfolio/tools/p2.png"
+        ],
+        "images": [
+          "images/portfolio/tools/p1.png",
+          "images/portfolio/tools/p2.png",
+          "images/portfolio/tools/p3.png",
+          "images/portfolio/tools/p4.png"
+        ],
+        "url": "https://github.com/Leancba/Tools-app",
+        "technologies": [
+          {
+            "class": "devicon-android-plain",
+            "name": "Android"
+          },
+          {
+            "class": "devicon-apple-original",
+            "name": "IOS"
+          }
+        ]
+      }
+    ],
+    "projectsweb": [
+      {
+        "title": "Clima web",
+        "startDate": "2022",
+        "description": "Aplicacion web donde se podra consultar el clima actual, el pronostico extendido y la ubicacion del lugar",
+        "images": [
+          "images/portfolio/climaweb/p1.png",
+          "images/portfolio/climaweb/p2.png",
+          "images/portfolio/climaweb/p3.png"
+        ],
+        "url": "https://github.com/Leancba/Clima-app-web",
+        "technologies": [
+          {
+            "class": "devicon-android-plain",
+            "name": "Android"
+          },
+          {
+            "class": "devicon-apple-original",
+            "name": "IOS"
+          }
+        ]
+      },
+      {
+        "title": "El camino E-commerce",
+        "startDate": "2023",
+        "description": "'El camino', mayorista de perfumeria",
+        "images": [
+          "images/portfolio/elcamino/p1.png",
+          "images/portfolio/elcamino/p2.png",
+          "images/portfolio/elcamino/p3.png",
+          "images/portfolio/elcamino/p4.png",
+          "images/portfolio/elcamino/p5.png",
+          "images/portfolio/elcamino/p6.png"
+        ],
+        "url": "https://github.com/Leancba/elcaminodefinitivo",
+        "technologies": [
+          {
+            "class": "devicon-android-plain",
+            "name": "Android"
+          },
+          {
+            "class": "devicon-apple-original",
+            "name": "IOS"
+          }
+        ]
+      },
+      {
+        "title": "Ibañez y Asociados",
+        "startDate": "2023",
+        "description": "'Ibañez y Asociados', importante centro juridico de la ciudad de Córdoba,Argentina.",
+        "images": [
+          "images/portfolio/ibañez/p1.png",
+          "images/portfolio/ibañez/p2.png",
+          "images/portfolio/ibañez/p3.png",
+          "images/portfolio/ibañez/p4.png",
+          "images/portfolio/ibañez/p5.png"
+        ],
+        "url": "https://github.com/Leancba/estudio-juridico",
+        "technologies": [
+          {
+            "class": "devicon-android-plain",
+            "name": "Android"
+          },
+          {
+            "class": "devicon-apple-original",
+            "name": "IOS"
+          }
+        ]
+      }
+    ],
+    "experience": [
+      {
+        "company": "Key-data Company",
+        "title": "Full-Stack Developer",
+        "years": "6/2022 - present",
+        "mainTech": [
+          "AngularJS",
+          "Laravel"
+        ],
+        "technologies": [
+          "JavaScript",
+          "PHP",
+          "Ubuntu",
+          "Bitbucket",
+          "Jira",
+          "DBeaver"
+        ]
+      },
+      {
+        "company": "Exo Digital",
+        "title": "Front-End Developer",
+        "years": "Freelance - contrato por proyecto",
+        "mainTech": [
+          "ReactJS"
+        ],
+        "technologies": [
+          "HTML",
+          "CSS",
+          "JavaScript",
+          "Boostrap",
+          "React"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "Institution": [ 
+          "Soy-Henry bootcamp"
+        ],
+        "title": "Full-Stack Developer",
+        "years": "02/2022 - 02/2023",
+        "technologies": [
+          "HTML",
+          "CSS",
+          "JavaScript",
+          "React",
+          "NodeJS",
+          "Sequelize",
+          "PostgreSQL",
+          "SQL"
+        ]
+      },
+      {
+        "Institution": [ 
+          "Key-data bootcamp"
+        ],
+        "title": "Front-End Developer",
+        "years": "06/2022 - 08/2022",
+        "technologies": [
+          "HTML",
+          "CSS",
+          "JavaScript",
+          "AngularJS"
+        ]
+      },
+      {
+        "Institution": [ 
+          "Instituto Universitario Aeronautico"
+        ],
+        "title": "Tec. Adm. Empresas",
+        "years": "10/2019 - present",
+        "technologies": [
+          
+        ]
+      }
+    ]
+  }

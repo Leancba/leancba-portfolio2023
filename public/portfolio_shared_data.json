@@ -1,0 +1,83 @@
+{
+    "basic_info": {
+      "name": "Leandro Milía",
+      "titles": [ "Full Stack Developer", "Mobile App Developer" ],
+      "social": [
+        {
+          "name": "github",
+          "url": "https://github.com/Leancba",
+          "class": "fab fa-github"
+        },
+        {
+          "name": "instagram",
+          "url": "https://api.whatsapp.com/send?phone=5493515099351",
+          "class": "fab fa-whatsapp"
+        }
+      ],
+      "image": "yo2.jpeg"
+    },
+    "skills": {
+      "icons": [
+        {
+          "name": "HTML 5",
+          "class": "devicon-html5-plain",
+          "level": "95"
+        },
+        {
+          "name": "CSS 3",
+          "class": "devicon-css3-plain",
+          "level": "95"
+        },
+        {
+          "name": "JavaScript",
+          "class": "devicon-javascript-plain",
+          "level": "70"
+        },
+        {
+          "name": "ReactJS",
+          "class": "devicon-react-plain",
+          "level": "80"
+        },
+        {
+          "name": "AngularJS",
+          "class": "devicon-angularjs-plain",
+          "level": "80"
+        },
+        {
+          "name": "Bootstrap",
+          "class": "devicon-bootstrap-plain",
+          "level": "85"
+        },
+        {
+          "name": "NodeJS",
+          "class": "devicon-nodejs-plain",
+          "level": "65"
+        },
+        {
+          "name": "Sequelize",
+          "class": "devicon-sequelize-plain",
+          "level": "60"
+        },
+        {
+        "name": "PostgreSQL",
+        "class": "devicon-postgresql-plain",
+        "level": "60"
+        },
+        {
+          "name": "Git",
+          "class": "devicon-git-plain",
+          "level": "60"
+        },
+        {
+          "name": "Ubuntu",
+          "class": "devicon-ubuntu-plain",
+          "level": "60"
+        },
+        {
+          "name": "MongoDB",
+          "class": "devicon-mongodb-plain",
+          "level": "60"
+        }
+      ]
+    }
+  }
