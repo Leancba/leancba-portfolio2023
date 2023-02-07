@@ -200,12 +200,8 @@
         "url": "https://github.com/Leancba/Clima-app-web",
         "technologies": [
           {
-            "class": "devicon-android-plain",
-            "name": "Android"
-          },
-          {
-            "class": "devicon-apple-original",
-            "name": "IOS"
+            "class": "devicon-erlang-plain",
+            "name": "Web"
           }
         ]
       },
@@ -224,12 +220,8 @@
         "url": "https://github.com/Leancba/elcaminodefinitivo",
         "technologies": [
           {
-            "class": "devicon-android-plain",
-            "name": "Android"
-          },
-          {
-            "class": "devicon-apple-original",
-            "name": "IOS"
+            "class": "devicon-erlang-plain",
+            "name": "Web"
           }
         ]
       },
@@ -247,12 +239,8 @@
         "url": "https://github.com/Leancba/estudio-juridico",
         "technologies": [
           {
-            "class": "devicon-android-plain",
-            "name": "Android"
-          },
-          {
-            "class": "devicon-apple-original",
-            "name": "IOS"
+            "class": "devicon-erlang-plain",
+            "name": "Web"
           }
         ]
       }
