@@ -26,7 +26,7 @@ class About extends Component {
        var cv = cv_esp
     
       }else if (curriculum_type === 'english'){
-        var cv = cv_eng
+       cv = cv_eng
 
       }
       console.log(cv)
