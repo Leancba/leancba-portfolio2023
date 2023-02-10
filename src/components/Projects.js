@@ -21,8 +21,7 @@ class Projects extends Component {
       var mobiletittle = this.props.resumeBasicInfo.section_name.mobileprojects;
       var webtittle = this.props.resumeBasicInfo.section_name.webprojects;
       var projects = this.props.resumeProjects.map(function (projects) {
-       console.log(projects.images[0])
-       console.log(projects.main)
+    
         return (
           <div
             className="col-sm-12 col-md-6 col-lg-4"

@@ -3,8 +3,11 @@ import { Icon } from "@iconify/react";
 import javascript from "@iconify/icons-logos/javascript";
 import reactIcon from "@iconify/icons-logos/react";
 import node from "@iconify/icons-logos/nodejs";
-import mongo from "@iconify/icons-logos/mongodb";
-import cv from "../cv/Leandro MIlia-cv-actualizado.pdf"
+import mongo from "@iconify/icons-logos/postgresql";
+import cv_esp from "../cv/leandro-milia-curriculumVitae.pdf"
+import cv_eng from "../cv/leandro-milia-resume.pdf"
+
+
 
 class About extends Component {
   render() {
@@ -13,9 +16,23 @@ class About extends Component {
     }
     if (this.props.resumeBasicInfo) {
       var sectionName = this.props.resumeBasicInfo.section_name.about;
+      var curriculumtext = this.props.resumeBasicInfo.section_name.curriculum;
+      var curriculum_type = this.props.resumeBasicInfo.section_name.curriculum_type;
+      console.log(curriculum_type)
       var hello = this.props.resumeBasicInfo.description_header;
       var about = this.props.resumeBasicInfo.description;
+
+      if(curriculum_type === 'spanish'){
+       var cv = cv_esp
+    
+      }else if (curriculum_type === 'english'){
+        var cv = cv_eng
+
+      }
+      console.log(cv)
     }
+
+    
 
     return (
       <section id="about">
@@ -42,11 +59,11 @@ class About extends Component {
                   />
                   <Icon
                     icon={node}
-                    style={{ fontSize: "400%", margin: "9% 5% 0 5%" }}
+                    style={{ fontSize: "400%", margin: "9% 15% 0 5%" }}
                   />
                   <Icon
                     icon={mongo}
-                    style={{ fontSize: "240%", margin: "9% 5% 0 5%" }}
+                    style={{ fontSize: "400%", margin: "9% 9% 0 7%" }}
                   />
                 </span>
               </div>
@@ -88,7 +105,7 @@ class About extends Component {
                     <br />
                     {about}
                     <br/>
-                    <a id="buttonz-container" download href={cv}><button id="buttonz" class="btn"> Download Curriculum Vitae<i class="fas fa-download"></i> </button></a>
+                    <a id="buttonz-container" download href = {cv} ><button id="buttonz" class="btn">{curriculumtext}<i class="fas fa-download"></i> </button></a>
                   </div>
                 </div>
               </div>

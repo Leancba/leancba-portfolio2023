@@ -1,9 +1,12 @@
+
 {
     "basic_info": {
       "description_header": "Hola!",
       "description": "👋 Soy Full Stack Developer con +1 año de experiencia trabajando con buenas practicas y algoritmos en todo el proceso del desarrollo del software. Como estudiante autodidacta, aprender no es un obstáculo en algún nuevo desafió. Mi objetivo es poder contribuir en el diseño de las soluciones de la empresa y poder crecer en ella",
       "section_name": {
         "about": "Sobre Mi",
+        "curriculum": "Descargar Curriculum Vitae",
+        "curriculum_type": "spanish",
         "mobileprojects": "Proyectos Móviles",
         "webprojects": "Projectos Web",
         "skills": "Skills",
